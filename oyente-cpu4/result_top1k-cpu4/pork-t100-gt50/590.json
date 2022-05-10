@@ -1,0 +1,1 @@
+{"vulnerabilities": {"callstack": false, "reentrancy": false, "time_dependency": false, "integer_overflow": [], "integer_underflow": [], "money_concurrency": false}, "file_path": "top1000/0xbf5f8bfcee9502a30018d91c63eca66980e6e9bb.json", "evm_code_coverage": 0.6964285714285714, "time": 5.275696039199829}

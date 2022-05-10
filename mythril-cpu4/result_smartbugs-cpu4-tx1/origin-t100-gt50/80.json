@@ -1,0 +1,1 @@
+{"success": true, "error": null, "time": 3.6310670375823975, "file_path": "dataset/reentrancy/reentrancy_insecure.sol", "issues": [], "total_states": 73}

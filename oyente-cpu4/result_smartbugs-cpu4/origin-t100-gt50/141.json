@@ -1,0 +1,1 @@
+{"vulnerabilities": {"callstack": [], "reentrancy": [], "assertion_failure": [], "time_dependency": [], "integer_overflow": [], "parity_multisig_bug_2": [], "integer_underflow": [], "money_concurrency": []}, "file_path": "dataset/unchecked_low_level_calls/unchecked_return_value.sol", "evm_code_coverage": 0.9748427672955975, "time": 0.4096410274505615}

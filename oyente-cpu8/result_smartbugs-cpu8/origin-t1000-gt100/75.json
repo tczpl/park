@@ -1,0 +1,1 @@
+{"vulnerabilities": {"callstack": [], "reentrancy": [], "assertion_failure": [], "time_dependency": [], "integer_overflow": [], "parity_multisig_bug_2": [], "integer_underflow": [], "money_concurrency": []}, "file_path": "dataset/reentrancy/modifier_reentrancy.sol", "evm_code_coverage": 0.9254498714652957, "time": 1.3071341514587402}

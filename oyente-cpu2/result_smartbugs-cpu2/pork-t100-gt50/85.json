@@ -1,0 +1,1 @@
+{"vulnerabilities": {"callstack": [], "reentrancy": [], "assertion_failure": [], "time_dependency": [], "integer_overflow": [], "parity_multisig_bug_2": [], "integer_underflow": [], "money_concurrency": []}, "file_path": "dataset/time_manipulation/ether_lotto.sol", "evm_code_coverage": 0.48333333333333334, "time": 0.48413991928100586}

@@ -1,0 +1,1 @@
+{"vulnerabilities": {"callstack": [], "reentrancy": [], "assertion_failure": [], "time_dependency": [], "integer_overflow": [], "parity_multisig_bug_2": [], "integer_underflow": [], "money_concurrency": []}, "file_path": "dataset/bad_randomness/random_number_generator.sol", "evm_code_coverage": 1.0, "time": 0.28197216987609863}

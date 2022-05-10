@@ -1,0 +1,1 @@
+{"vulnerabilities": {"callstack": [], "reentrancy": [], "assertion_failure": [], "time_dependency": [], "integer_overflow": [], "parity_multisig_bug_2": [], "integer_underflow": [], "money_concurrency": []}, "file_path": "dataset/arithmetic/tokensalechallenge.sol", "evm_code_coverage": 0.9498680738786279, "time": 1.7077550888061523}

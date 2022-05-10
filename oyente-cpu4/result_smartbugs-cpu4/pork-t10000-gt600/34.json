@@ -1,0 +1,1 @@
+{"vulnerabilities": {"callstack": [], "reentrancy": [], "assertion_failure": [], "time_dependency": [], "integer_overflow": [], "parity_multisig_bug_2": [], "integer_underflow": [], "money_concurrency": []}, "file_path": "dataset/bad_randomness/guess_the_random_number.sol", "evm_code_coverage": 0.9565217391304348, "time": 0.5256590843200684}
